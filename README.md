@@ -7,3 +7,4 @@ Class Project for Web Design @ Chatt State
 ## Projects
 
 - [intro-to-html.html](intro-to-html.html)
+- [Behind the Scenes of Live Music & Concert Production](concert-production/index.html)
