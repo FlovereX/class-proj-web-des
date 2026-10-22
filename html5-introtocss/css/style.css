@@ -171,6 +171,11 @@ figure img {
   width: 760px;
 }
 
+/* Shows the top of tall portrait photos instead of the center */
+figure img.crop-top {
+  object-position: top;
+}
+
 figcaption {
   color: #a9a4c9;
   font-size: 0.9rem;
