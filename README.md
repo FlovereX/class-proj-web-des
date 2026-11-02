@@ -8,8 +8,8 @@ Class Project for Web Design @ Chatt State
 
 - [intro-to-html.html](intro-to-html.html)
 - [html5-introtocss](html5-introtocss/index.html)
-- [advanced-css](advanced-css/index.html) - Advanced CSS lab: 3-page site with flex two-column layout
-- [floverex-final](floverex-final/index.html) - final project: multi-page FlovereX portfolio site
+- [advanced-css](advanced-css/index.html) 
+- [floverex-final](floverex-final/index.html)
 
 
 
